@@ -1,0 +1,42 @@
+.top-bar-outer {
+	margin: 0 auto;
+	background: #333333;
+	text-align: center;
+}
+
+.top-bar-width {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.width {
+	width: 1000px;
+}
+
+.margin-null-auto {
+	margin: 0 auto;
+}
+
+.field {
+	/*width: 80%;*/
+	margin: 0 auto;
+}
+
+.sign-in-margin {
+	margin-top: 70px;
+}
+
+.table {
+	width: 100%;
+}
+
+.create-input-margin {
+	margin-top: 10px;
+}
+
+.info {
+	max-width: 100%;
+	max-height: 300px;
+	margin-bottom: 16px;
+	height: 200px;
+}
